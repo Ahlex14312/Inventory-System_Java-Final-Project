@@ -1,1 +1,13 @@
 # Inventory-System_Java-Final-Project
+In your github/gitlab README file, write the name of your partner and your project name. If you have installation steps, please feel free to write it as well.
+Hi Good day!, Thank you for visiting my project named Inventory System and just follow the steps for the insatallations.
+
+#Installation Steps:
+1. Clone or Dowload zip file this file.
+2. Unzip file and add this to your NeatBeans Project.
+3. Import the database.
+4. Make sure in your NeatBeans you are already have jar files installed:
+   - mysql-connector-java-8.0.25.jar
+   - jcalendar-1.4.jar
+5. Finally have and enjoy my project!
+  
