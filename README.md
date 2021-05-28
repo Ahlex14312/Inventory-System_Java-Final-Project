@@ -1,5 +1,4 @@
 # Inventory-System_Java-Final-Project
-In your github/gitlab README file, write the name of your partner and your project name. If you have installation steps, please feel free to write it as well.
 Hi Good day!, Thank you for visiting my project named Inventory System and just follow the steps for the insatallations.
 
 #Installation Steps:
