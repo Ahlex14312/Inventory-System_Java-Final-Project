@@ -8,5 +8,6 @@ Hi Good day!, Thank you for visiting my project named Inventory System and just 
 4. Make sure in your NeatBeans you are already have jar files installed:
    - mysql-connector-java-8.0.25.jar
    - jcalendar-1.4.jar
-5. Finally have and enjoy my project!
+5. Use username: Ahlex14312 - password:admin to login
+6. Finally have and enjoy my project!
   
